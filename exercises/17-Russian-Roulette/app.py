@@ -17,4 +17,4 @@ def fire_gun():
 
 
 
-print(fire_gun())
+fire_gun()
